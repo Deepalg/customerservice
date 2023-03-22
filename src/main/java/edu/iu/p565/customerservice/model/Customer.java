@@ -1,5 +1,7 @@
 package edu.iu.p565.customerservice.model;
 
+import java.util.Objects;
+
 public class Customer {
     private int id;
     private String name;
